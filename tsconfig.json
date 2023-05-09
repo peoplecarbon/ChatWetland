@@ -24,6 +24,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "download_pdf_from_s3.js", "download_pdf_from_s3.js", "download_pdf_from_s3.js"],
   "exclude": ["node_modules"]
 }
