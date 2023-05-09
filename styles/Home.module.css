@@ -14,6 +14,13 @@
   text-align: center;
 }
 
+.header {
+  border-bottom: none;
+  border: none;
+}
+
+
+
 .cloudform {
   position: relative;
 }

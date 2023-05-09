@@ -1,8 +1,8 @@
 {
-  "name": "chat-carbon",
+  "name": "chatwetland",
   "version": "0.1.0",
   "private": true,
-  "license": "MIT",
+  "license": "Apache 2.0",
   "author": "jerry.zhang<jerry.zhang@peoplecarbon.org>",
   "type": "module",
   "scripts": {
